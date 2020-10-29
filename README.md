@@ -10,9 +10,6 @@ This repository contains the open-source uptime monitor and status page for [Osw
 
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/OswaldLabsOpenSource/status/issues) as incident reports, [Actions](https://github.com/OswaldLabsOpenSource/status/actions) as uptime monitors, and [Pages](https://status.oswaldlabs.com) for the status page.
 
-With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/OswaldLabsOpenSource/status/issues) as incident reports, [Actions](https://github.com/OswaldLabsOpenSource/status/actions) as uptime monitors, and [Pages](https://status.oswaldlabs.com) for the status page.
-
-
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
@@ -25,5 +22,3 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 - Code: [MIT](./LICENSE) © [Oswald Labs](https://oswaldlabs.com)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
-
-
