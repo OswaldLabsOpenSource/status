@@ -3,6 +3,16 @@ repo: status
 sites:
   - name: Oswald Labs
     url: https://oswaldlabs.com
+  - name: Oswald Labs Blog
+    url: https://blog.oswald.foundation
+  - name: A11Y.co
+    url: https://a11y.co
+  - name: Agastya admin
+    url: https://admin.oswaldlabs.com
+  - name: Agastya meta
+    url: https://agastya-version.oswaldlabs.com/meta.production.json
+  - name: Agastya meta
+    url: https://agastya-version.oswaldlabs.com/meta.production.json
 status-website:
   cname: status.oswaldlabs.com
   logoUrl: https://avatars2.githubusercontent.com/u/21421587?s=200&v=4
