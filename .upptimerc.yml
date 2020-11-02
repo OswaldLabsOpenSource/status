@@ -16,7 +16,7 @@ sites:
 status-website:
   cname: status.oswaldlabs.com
   logoUrl: https://avatars2.githubusercontent.com/u/21421587?s=200&v=4
-  name: Upptime
+  name: Oswald Labs Status
   navbar:
     - title: Status
       href: /
