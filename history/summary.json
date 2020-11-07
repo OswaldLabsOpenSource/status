@@ -5,7 +5,7 @@
     "slug": "oswald-labs",
     "status": "up",
     "uptime": "100.00",
-    "time": 254
+    "time": 248
   },
   {
     "name": "Oswald Labs Blog",
@@ -21,7 +21,7 @@
     "slug": "a11-y-co",
     "status": "up",
     "uptime": "100.00",
-    "time": 60
+    "time": 61
   },
   {
     "name": "Agastya admin",
@@ -29,7 +29,7 @@
     "slug": "agastya-admin",
     "status": "up",
     "uptime": "100.00",
-    "time": 90
+    "time": 93
   },
   {
     "name": "Agastya meta",
@@ -37,7 +37,7 @@
     "slug": "agastya-meta",
     "status": "up",
     "uptime": "100.00",
-    "time": 200
+    "time": 202
   },
   {
     "name": "Agastya meta",
@@ -45,6 +45,6 @@
     "slug": "agastya-meta",
     "status": "up",
     "uptime": "100.00",
-    "time": 200
+    "time": 202
   }
 ]
