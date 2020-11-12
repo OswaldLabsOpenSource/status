@@ -5,7 +5,7 @@
     "slug": "oswald-labs",
     "status": "up",
     "uptime": "100.00",
-    "time": 243
+    "time": 247
   },
   {
     "name": "Oswald Labs Blog",
@@ -13,7 +13,7 @@
     "slug": "oswald-labs-blog",
     "status": "up",
     "uptime": "100.00",
-    "time": 391
+    "time": 396
   },
   {
     "name": "A11Y.co",
@@ -37,7 +37,7 @@
     "slug": "agastya-meta",
     "status": "up",
     "uptime": "100.00",
-    "time": 204
+    "time": 205
   },
   {
     "name": "Agastya meta",
@@ -45,6 +45,6 @@
     "slug": "agastya-meta",
     "status": "up",
     "uptime": "100.00",
-    "time": 204
+    "time": 205
   }
 ]
