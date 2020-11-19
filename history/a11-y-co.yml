@@ -1,7 +1,7 @@
 - url: https://a11y.co
-- status: down
+- status: up
 - code: 200
-- responseTime: 71
-- lastUpdated: 2020-11-19T06:51:23.804Z
+- responseTime: 50
+- lastUpdated: 2020-11-19T06:59:57.488Z
 - startTime: 2020-10-29T11:46:05.727Z
 - generator: Upptime <https://github.com/upptime/upptime>
