@@ -3,7 +3,7 @@
     "name": "Oswald Labs",
     "url": "https://oswaldlabs.com",
     "slug": "oswald-labs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
     "time": 263
   },
@@ -11,15 +11,15 @@
     "name": "Oswald Labs Blog",
     "url": "https://blog.oswald.foundation",
     "slug": "oswald-labs-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 396
+    "time": 404
   },
   {
     "name": "A11Y.co",
     "url": "https://a11y.co",
     "slug": "a11-y-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
     "time": 66
   },
@@ -27,15 +27,15 @@
     "name": "Agastya admin",
     "url": "https://admin.oswaldlabs.com",
     "slug": "agastya-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 104
+    "time": 105
   },
   {
     "name": "Agastya meta",
     "url": "https://agastya-version.oswaldlabs.com/meta.production.json",
     "slug": "agastya-meta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
     "time": 209
   },
@@ -43,7 +43,7 @@
     "name": "Agastya meta",
     "url": "https://agastya-version.oswaldlabs.com/meta.production.json",
     "slug": "agastya-meta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
     "time": 209
   }
