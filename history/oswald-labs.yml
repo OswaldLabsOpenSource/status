@@ -1,7 +1,7 @@
 - url: https://oswaldlabs.com
-- status: up
+- status: down
 - code: 200
-- responseTime: 798
-- lastUpdated: 2020-11-18T23:17:18.784Z
+- responseTime: 276
+- lastUpdated: 2020-11-19T06:51:19.787Z
 - startTime: 2020-10-29T11:35:56.053Z
 - generator: Upptime <https://github.com/upptime/upptime>
