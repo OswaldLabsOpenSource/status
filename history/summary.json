@@ -29,7 +29,7 @@
     "slug": "agastya-admin",
     "status": "up",
     "uptime": "99.98%",
-    "time": 132
+    "time": 131
   },
   {
     "name": "Agastya meta",
@@ -37,7 +37,7 @@
     "slug": "agastya-meta",
     "status": "up",
     "uptime": "99.98%",
-    "time": 215
+    "time": 216
   },
   {
     "name": "Agastya meta",
@@ -45,6 +45,6 @@
     "slug": "agastya-meta",
     "status": "up",
     "uptime": "99.98%",
-    "time": 215
+    "time": 216
   }
 ]
