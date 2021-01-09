@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/oswaldlabs.com",
     "slug": "oswald-labs",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 248,
-    "timeDay": 221,
-    "timeWeek": 217,
-    "timeMonth": 213,
-    "timeYear": 248,
+    "uptimeYear": "99.98%",
+    "time": 246,
+    "timeDay": 144,
+    "timeWeek": 208,
+    "timeMonth": 209,
+    "timeYear": 246,
     "dailyMinutesDown": {
       "2020-11-28": 17,
       "2020-11-19": 9
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 507,
-    "timeDay": 447,
-    "timeWeek": 858,
-    "timeMonth": 600,
-    "timeYear": 507,
+    "time": 506,
+    "timeDay": 417,
+    "timeWeek": 503,
+    "timeMonth": 587,
+    "timeYear": 506,
     "dailyMinutesDown": {
       "2020-11-19": 9
     }
@@ -52,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 75,
-    "timeDay": 104,
-    "timeWeek": 72,
+    "timeDay": 71,
+    "timeWeek": 71,
     "timeMonth": 77,
     "timeYear": 75,
     "dailyMinutesDown": {
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 361,
-    "timeDay": 114,
-    "timeWeek": 108,
-    "timeMonth": 172,
-    "timeYear": 361,
+    "time": 360,
+    "timeDay": 267,
+    "timeWeek": 129,
+    "timeMonth": 178,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2020-11-19": 9
     }
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 223,
-    "timeDay": 224,
-    "timeWeek": 225,
-    "timeMonth": 224,
+    "timeDay": 233,
+    "timeWeek": 232,
+    "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2020-11-19": 9
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 223,
-    "timeDay": 224,
-    "timeWeek": 225,
-    "timeMonth": 224,
+    "timeDay": 233,
+    "timeWeek": 232,
+    "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2020-11-19": 9
