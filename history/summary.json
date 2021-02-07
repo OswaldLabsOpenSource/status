@@ -11,9 +11,9 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 250,
-    "timeDay": 575,
-    "timeWeek": 302,
-    "timeMonth": 256,
+    "timeDay": 199,
+    "timeWeek": 292,
+    "timeMonth": 254,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2021-01-26": 8,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 563,
-    "timeDay": 505,
-    "timeWeek": 845,
-    "timeMonth": 697,
-    "timeYear": 563,
+    "time": 564,
+    "timeDay": 708,
+    "timeWeek": 814,
+    "timeMonth": 702,
+    "timeYear": 564,
     "dailyMinutesDown": {
       "2020-11-19": 9
     }
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 78,
-    "timeDay": 77,
-    "timeWeek": 77,
-    "timeMonth": 86,
+    "timeDay": 79,
+    "timeWeek": 81,
+    "timeMonth": 87,
     "timeYear": 78,
     "dailyMinutesDown": {
       "2020-11-19": 9
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 309,
-    "timeDay": 136,
-    "timeWeek": 161,
-    "timeMonth": 166,
-    "timeYear": 309,
+    "time": 308,
+    "timeDay": 162,
+    "timeWeek": 168,
+    "timeMonth": 168,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2020-11-19": 9
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 228,
-    "timeDay": 236,
-    "timeWeek": 229,
+    "time": 229,
+    "timeDay": 254,
+    "timeWeek": 233,
     "timeMonth": 242,
-    "timeYear": 228,
+    "timeYear": 229,
     "dailyMinutesDown": {
       "2020-11-19": 9
     }
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 228,
-    "timeDay": 236,
-    "timeWeek": 229,
+    "time": 229,
+    "timeDay": 254,
+    "timeWeek": 233,
     "timeMonth": 242,
-    "timeYear": 228,
+    "timeYear": 229,
     "dailyMinutesDown": {
       "2020-11-19": 9
     }
