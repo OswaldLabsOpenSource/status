@@ -47,17 +47,17 @@
     "url": "https://a11y.co",
     "icon": "https://favicons.githubusercontent.com/a11y.co",
     "slug": "a11-y-co",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 90,
-    "timeDay": 206,
-    "timeWeek": 160,
-    "timeMonth": 129,
-    "timeYear": 90,
+    "time": 92,
+    "timeDay": 275,
+    "timeWeek": 183,
+    "timeMonth": 136,
+    "timeYear": 92,
     "dailyMinutesDown": {
       "2020-11-19": 9
     }
