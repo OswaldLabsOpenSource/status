@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 248,
-    "timeDay": 181,
-    "timeWeek": 259,
-    "timeMonth": 253,
+    "timeDay": 180,
+    "timeWeek": 256,
+    "timeMonth": 251,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2021-01-26": 8,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 680,
-    "timeDay": 681,
-    "timeWeek": 766,
-    "timeMonth": 754,
+    "timeDay": 726,
+    "timeWeek": 791,
+    "timeMonth": 759,
     "timeYear": 680,
     "dailyMinutesDown": {
       "2021-02-19": 8,
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 158,
-    "timeWeek": 147,
-    "timeMonth": 135,
+    "timeDay": 166,
+    "timeWeek": 162,
+    "timeMonth": 132,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2020-11-19": 9
@@ -73,10 +73,30 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
+    "time": 248,
+    "timeDay": 373,
+    "timeWeek": 290,
+    "timeMonth": 254,
+    "timeYear": 248,
+    "dailyMinutesDown": {
+      "2020-11-19": 9
+    }
+  },
+  {
+    "name": "Agastya meta",
+    "url": "https://agastya-version.oswaldlabs.com/meta.production.json",
+    "icon": "https://favicons.githubusercontent.com/agastya-version.oswaldlabs.com",
+    "slug": "agastya-meta",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 247,
-    "timeDay": 428,
-    "timeWeek": 258,
-    "timeMonth": 248,
+    "timeDay": 311,
+    "timeWeek": 303,
+    "timeMonth": 279,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2020-11-19": 9
@@ -94,29 +114,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 247,
-    "timeDay": 310,
-    "timeWeek": 291,
-    "timeMonth": 276,
-    "timeYear": 247,
-    "dailyMinutesDown": {
-      "2020-11-19": 9
-    }
-  },
-  {
-    "name": "Agastya meta",
-    "url": "https://agastya-version.oswaldlabs.com/meta.production.json",
-    "icon": "https://favicons.githubusercontent.com/agastya-version.oswaldlabs.com",
-    "slug": "agastya-meta",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 310,
-    "timeWeek": 291,
-    "timeMonth": 276,
+    "timeDay": 311,
+    "timeWeek": 303,
+    "timeMonth": 279,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2020-11-19": 9
