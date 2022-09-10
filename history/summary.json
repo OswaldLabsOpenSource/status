@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 211,
-    "timeDay": 236,
-    "timeWeek": 237,
-    "timeMonth": 215,
+    "timeDay": 252,
+    "timeWeek": 239,
+    "timeMonth": 218,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2022-06-30": 193
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.55%",
-    "time": 836,
-    "timeDay": 1077,
-    "timeWeek": 951,
-    "timeMonth": 867,
-    "timeYear": 899,
+    "time": 837,
+    "timeDay": 861,
+    "timeWeek": 912,
+    "timeMonth": 864,
+    "timeYear": 900,
     "dailyMinutesDown": {
       "2022-08-23": 157,
       "2022-08-22": 13,
@@ -74,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.12%",
     "uptimeYear": "99.81%",
-    "time": 192,
-    "timeDay": 1252,
-    "timeWeek": 1278,
-    "timeMonth": 1028,
-    "timeYear": 212,
+    "time": 194,
+    "timeDay": 1238,
+    "timeWeek": 1279,
+    "timeMonth": 1060,
+    "timeYear": 215,
     "dailyMinutesDown": {
       "2022-08-19": 822,
       "2022-06-30": 193
@@ -96,9 +96,9 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.89%",
     "time": 300,
-    "timeDay": 247,
-    "timeWeek": 740,
-    "timeMonth": 751,
+    "timeDay": 185,
+    "timeWeek": 703,
+    "timeMonth": 750,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2022-08-31": 33,
@@ -130,18 +130,19 @@
     "icon": "https://favicons.githubusercontent.com/agastya-version.oswaldlabs.com",
     "slug": "agastya-meta",
     "status": "down",
-    "uptime": "46.15%",
+    "uptime": "46.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.35%",
-    "time": 252,
+    "time": 251,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2022-09-09": 144,
+      "2022-09-10": 145,
+      "2022-09-09": 1440,
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
@@ -504,8 +505,7 @@
       "2021-09-14": 1440,
       "2021-09-13": 1440,
       "2021-09-12": 1440,
-      "2021-09-11": 1440,
-      "2021-09-10": 1440
+      "2021-09-11": 1440
     }
   },
   {
@@ -514,18 +514,19 @@
     "icon": "https://favicons.githubusercontent.com/agastya-version.oswaldlabs.com",
     "slug": "agastya-meta",
     "status": "down",
-    "uptime": "46.15%",
+    "uptime": "46.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.35%",
-    "time": 252,
+    "time": 251,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2022-09-09": 145,
+      "2022-09-10": 145,
+      "2022-09-09": 1440,
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
@@ -888,8 +889,7 @@
       "2021-09-14": 1440,
       "2021-09-13": 1440,
       "2021-09-12": 1440,
-      "2021-09-11": 1440,
-      "2021-09-10": 1440
+      "2021-09-11": 1440
     }
   }
 ]
