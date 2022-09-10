@@ -68,10 +68,10 @@
     "url": "https://a11y.co",
     "icon": "https://favicons.githubusercontent.com/a11y.co",
     "slug": "a11-y-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "98.12%",
     "uptimeYear": "99.81%",
     "time": 194,
@@ -80,6 +80,7 @@
     "timeMonth": 1060,
     "timeYear": 215,
     "dailyMinutesDown": {
+      "2022-09-10": 3,
       "2022-08-19": 822,
       "2022-06-30": 193
     }
@@ -130,7 +131,7 @@
     "icon": "https://favicons.githubusercontent.com/agastya-version.oswaldlabs.com",
     "slug": "agastya-meta",
     "status": "down",
-    "uptime": "46.08%",
+    "uptime": "46.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -141,7 +142,7 @@
     "timeMonth": 0,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2022-09-10": 145,
+      "2022-09-10": 1165,
       "2022-09-09": 1440,
       "2022-09-08": 1440,
       "2022-09-07": 1440,
@@ -514,7 +515,7 @@
     "icon": "https://favicons.githubusercontent.com/agastya-version.oswaldlabs.com",
     "slug": "agastya-meta",
     "status": "down",
-    "uptime": "46.08%",
+    "uptime": "46.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -525,7 +526,7 @@
     "timeMonth": 0,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2022-09-10": 145,
+      "2022-09-10": 1165,
       "2022-09-09": 1440,
       "2022-09-08": 1440,
       "2022-09-07": 1440,
