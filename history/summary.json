@@ -2,7 +2,7 @@
   {
     "name": "Oswald Labs",
     "url": "https://oswaldlabs.com",
-    "icon": "https://favicons.githubusercontent.com/oswaldlabs.com",
+    "icon": "https://icons.duckduckgo.com/ip3/oswaldlabs.com.ico",
     "slug": "oswald-labs",
     "status": "up",
     "uptime": "99.98%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 210,
-    "timeDay": 135,
-    "timeWeek": 218,
-    "timeMonth": 239,
-    "timeYear": 201,
+    "time": 209,
+    "timeDay": 305,
+    "timeWeek": 225,
+    "timeMonth": 241,
+    "timeYear": 202,
     "dailyMinutesDown": {
       "2022-06-30": 193
     }
@@ -22,7 +22,7 @@
   {
     "name": "Oswald Labs Blog",
     "url": "https://blog.oswald.foundation",
-    "icon": "https://favicons.githubusercontent.com/blog.oswald.foundation",
+    "icon": "https://icons.duckduckgo.com/ip3/blog.oswald.foundation.ico",
     "slug": "oswald-labs-blog",
     "status": "up",
     "uptime": "99.76%",
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
-    "time": 842,
-    "timeDay": 1163,
-    "timeWeek": 865,
-    "timeMonth": 829,
-    "timeYear": 907,
+    "time": 843,
+    "timeDay": 567,
+    "timeWeek": 822,
+    "timeMonth": 810,
+    "timeYear": 905,
     "dailyMinutesDown": {
       "2022-08-23": 157,
       "2022-08-22": 13,
@@ -64,7 +64,7 @@
   {
     "name": "A11Y.co",
     "url": "https://a11y.co",
-    "icon": "https://favicons.githubusercontent.com/a11y.co",
+    "icon": "https://icons.duckduckgo.com/ip3/a11y.co.ico",
     "slug": "a11-y-co",
     "status": "up",
     "uptime": "99.88%",
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.76%",
-    "time": 247,
-    "timeDay": 1494,
-    "timeWeek": 1237,
-    "timeMonth": 1206,
-    "timeYear": 284,
+    "time": 248,
+    "timeDay": 865,
+    "timeWeek": 1168,
+    "timeMonth": 1195,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2022-09-21": 83,
       "2022-09-12": 125,
@@ -88,7 +88,7 @@
   {
     "name": "Agastya admin",
     "url": "https://admin.oswaldlabs.com",
-    "icon": "https://favicons.githubusercontent.com/admin.oswaldlabs.com",
+    "icon": "https://icons.duckduckgo.com/ip3/admin.oswaldlabs.com.ico",
     "slug": "agastya-admin",
     "status": "up",
     "uptime": "99.94%",
@@ -96,11 +96,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.89%",
-    "time": 305,
-    "timeDay": 91,
-    "timeWeek": 175,
-    "timeMonth": 403,
-    "timeYear": 351,
+    "time": 308,
+    "timeDay": 1721,
+    "timeWeek": 390,
+    "timeMonth": 443,
+    "timeYear": 355,
     "dailyMinutesDown": {
       "2022-09-13": 12,
       "2022-08-31": 33,
@@ -129,10 +129,10 @@
   {
     "name": "Agastya meta",
     "url": "https://agastya-version.oswaldlabs.com/meta.production.json",
-    "icon": "https://favicons.githubusercontent.com/agastya-version.oswaldlabs.com",
+    "icon": "https://icons.duckduckgo.com/ip3/agastya-version.oswaldlabs.com.ico",
     "slug": "agastya-meta",
     "status": "down",
-    "uptime": "44.64%",
+    "uptime": "44.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -143,7 +143,8 @@
     "timeMonth": 0,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2022-10-02": 152,
+      "2022-10-03": 119,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -506,17 +507,16 @@
       "2021-10-07": 1440,
       "2021-10-06": 1440,
       "2021-10-05": 1440,
-      "2021-10-04": 1440,
-      "2021-10-03": 1440
+      "2021-10-04": 1440
     }
   },
   {
     "name": "Agastya meta",
     "url": "https://agastya-version.oswaldlabs.com/meta.production.json",
-    "icon": "https://favicons.githubusercontent.com/agastya-version.oswaldlabs.com",
+    "icon": "https://icons.duckduckgo.com/ip3/agastya-version.oswaldlabs.com.ico",
     "slug": "agastya-meta",
     "status": "down",
-    "uptime": "44.64%",
+    "uptime": "44.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -527,7 +527,8 @@
     "timeMonth": 0,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2022-10-02": 152,
+      "2022-10-03": 119,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -890,8 +891,7 @@
       "2021-10-07": 1440,
       "2021-10-06": 1440,
       "2021-10-05": 1440,
-      "2021-10-04": 1440,
-      "2021-10-03": 1440
+      "2021-10-04": 1440
     }
   }
 ]
