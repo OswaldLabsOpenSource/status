@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 208,
-    "timeDay": 146,
-    "timeWeek": 169,
-    "timeMonth": 208,
+    "timeDay": 219,
+    "timeWeek": 178,
+    "timeMonth": 211,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2022-06-30": 193
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.oswald.foundation.ico",
     "slug": "oswald-labs-blog",
     "status": "down",
-    "uptime": "99.54%",
+    "uptime": "99.40%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.61%",
-    "uptimeMonth": "94.39%",
-    "uptimeYear": "99.10%",
-    "time": 845,
+    "uptimeWeek": "61.09%",
+    "uptimeMonth": "91.05%",
+    "uptimeYear": "98.82%",
+    "time": 846,
     "timeDay": 0,
-    "timeWeek": 868,
-    "timeMonth": 783,
-    "timeYear": 909,
+    "timeWeek": 987,
+    "timeMonth": 769,
+    "timeYear": 908,
     "dailyMinutesDown": {
-      "2022-10-29": 115,
+      "2022-10-30": 139,
+      "2022-10-29": 1440,
       "2022-10-28": 1440,
       "2022-10-27": 904,
       "2022-08-23": 157,
@@ -74,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 302,
-    "timeDay": 862,
+    "time": 303,
+    "timeDay": 946,
     "timeWeek": 1157,
-    "timeMonth": 1177,
-    "timeYear": 358,
+    "timeMonth": 1161,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2022-09-21": 83,
       "2022-09-12": 125,
@@ -93,14 +94,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.oswaldlabs.com.ico",
     "slug": "agastya-admin",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 311,
-    "timeDay": 91,
-    "timeWeek": 146,
+    "timeDay": 117,
+    "timeWeek": 152,
     "timeMonth": 292,
     "timeYear": 358,
     "dailyMinutesDown": {
@@ -134,7 +135,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/agastya-version.oswaldlabs.com.ico",
     "slug": "agastya-meta",
     "status": "down",
-    "uptime": "42.99%",
+    "uptime": "42.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -145,7 +146,8 @@
     "timeMonth": 0,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2022-10-29": 115,
+      "2022-10-30": 139,
+      "2022-10-29": 1440,
       "2022-10-28": 1440,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
@@ -508,8 +510,7 @@
       "2021-11-03": 1420,
       "2021-11-02": 1440,
       "2021-11-01": 1440,
-      "2021-10-31": 1440,
-      "2021-10-30": 1440
+      "2021-10-31": 1440
     }
   },
   {
@@ -518,7 +519,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/agastya-version.oswaldlabs.com.ico",
     "slug": "agastya-meta",
     "status": "down",
-    "uptime": "42.99%",
+    "uptime": "42.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -529,7 +530,8 @@
     "timeMonth": 0,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2022-10-29": 115,
+      "2022-10-30": 139,
+      "2022-10-29": 1440,
       "2022-10-28": 1440,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
@@ -892,8 +894,7 @@
       "2021-11-03": 1420,
       "2021-11-02": 1440,
       "2021-11-01": 1440,
-      "2021-10-31": 1440,
-      "2021-10-30": 1440
+      "2021-10-31": 1440
     }
   }
 ]
