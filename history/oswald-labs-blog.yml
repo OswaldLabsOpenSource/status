@@ -1,7 +1,7 @@
 url: https://blog.oswald.foundation
-status: up
-code: 200
-responseTime: 602
-lastUpdated: 2023-04-24T23:14:33.956Z
+status: down
+code: 429
+responseTime: 329
+lastUpdated: 2023-04-25T05:31:15.055Z
 startTime: Thu Oct 29 2020 11:46:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
