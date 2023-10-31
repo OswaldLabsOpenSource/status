@@ -4,19 +4,19 @@
     "url": "https://oswaldlabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/oswaldlabs.com.ico",
     "slug": "oswald-labs",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 249,
-    "timeWeek": 196,
-    "timeMonth": 197,
+    "timeDay": 264,
+    "timeWeek": 207,
+    "timeMonth": 199,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2023-10-31": 0
+      "2023-10-31": 18
     }
   }
 ]
