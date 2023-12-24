@@ -4,11 +4,11 @@
     "url": "https://oswaldlabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/oswaldlabs.com.ico",
     "slug": "oswald-labs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 210,
     "timeDay": 224,
@@ -16,6 +16,7 @@
     "timeMonth": 209,
     "timeYear": 205,
     "dailyMinutesDown": {
+      "2023-12-24": 0,
       "2023-12-22": 10,
       "2023-12-16": 5,
       "2023-10-31": 18
