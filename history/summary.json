@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/oswaldlabs.com.ico",
     "slug": "oswald-labs",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 415,
-    "timeWeek": 262,
-    "timeMonth": 252,
-    "timeYear": 232,
+    "time": 227,
+    "timeDay": 441,
+    "timeWeek": 308,
+    "timeMonth": 260,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   }
 ]
