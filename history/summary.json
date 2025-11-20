@@ -6,14 +6,14 @@
     "slug": "oswald-labs",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "94.06%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.15%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
     "time": 261,
-    "timeDay": 117,
-    "timeWeek": 265,
-    "timeMonth": 265,
+    "timeDay": 279,
+    "timeWeek": 273,
+    "timeMonth": 264,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2025-11-18": 86
